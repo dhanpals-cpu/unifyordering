@@ -1,0 +1,23 @@
+.ant-collapse-expand-icon {
+  position: absolute;
+  right: 0px;
+}
+.ant-collapse>.ant-collapse-item {
+  border-bottom: 1px solid #d9d9d9;
+  background: #ffffff;
+  color: #3e4959;
+  font-weight: 600;
+}
+.list-title{
+    padding-left: 6px;
+    font-weight: 600;
+    color: #828b97;
+}
+.ant-collapse-item.invited>div>span {
+  color: #828b97;
+}
+.chip{
+  padding: 6px 20px;
+  background: rgb(238, 239, 242);
+  border-radius: 20px;
+}
